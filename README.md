@@ -36,4 +36,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Gustavo Gomes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Gustavo Gomes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gusthgomes&show_icons=true&theme=dracula)
