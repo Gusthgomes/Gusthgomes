@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Gustavo, um desenvolvedor full stack apaixonado por programação!</h1>
 <p align="center"
-<a href="https://www.linkedin.com/in/gustavo-gomes-da-rosa-3a2039259/"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gusthgomesdarosa@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-gomes-da-rosa-3a2039259/"><img src="https://img.shields.io/badge/-Gustavo%20Gomes%20Rosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gusthgomesdarosa@gmail.com"><img src="https://img.shields.io/badge/-gusthgomesdarosa@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
